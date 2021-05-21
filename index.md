@@ -11,4 +11,4 @@
 * [视频内容理解在手淘逛逛中的应用与落地](https://mp.weixin.qq.com/s/2d-F8UdWBVG_g1y1DyIucg)
 * We are hosting [ACM MM 2021 Watch and Buy: Multimodal Product Identification Challenge](https://tianchi.aliyun.com/competition/entrance/531893/introduction), <strong>$10,000 USD award for top 3 teams</strong>.
 * We are hosting [CVPR2021 PIC Challenge: 3D Face Reconstruction From Multiple 2D Images](https://tianchi.aliyun.com/competition/entrance/531885/introduction), <strong>$15,000 USD award for top 3 teams</strong>.
-* We won 1st place in [DeepFashion2 Challenge 2020](https://competitions.codalab.org/competitions/22967#results)
+* We won 1st place in [CVPR 2020 DeepFashion2 Challenge](https://competitions.codalab.org/competitions/22967#results)

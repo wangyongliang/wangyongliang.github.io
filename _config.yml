@@ -8,5 +8,6 @@ skin: daylight
 avatar: /avatar.jpg
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 remote_theme: ngzhio/jekyll-theme-hamilton

@@ -1,11 +1,10 @@
-title: Ngzhio's Blog
-description: The personal blog of Shangzhi Huang
-url: https://ngzhio.github.io
-author: Shangzhi Huang
-avatar: /avatar.jpg
-email: ngzhio@gmail.com
-location: Shenzhen, China
+title: IMBA
+url: https://wangyongliang.github.io
+author: IMBA
+email: wangyongliang.wyl@gmail.com
+location: Beijing, China
 timezone: +0000
+skiin: daylight
 plugins:
   - jekyll-remote-theme
 

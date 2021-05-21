@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## 加入我们
 
-You can use the [editor on GitHub](https://github.com/wangyongliang/wangyongliang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+我们在持续招聘优秀实习生、应届生、社招。欢迎对机器视觉，自然语言，语音识别等技术感兴趣的朋友加入我们。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 关于我们
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

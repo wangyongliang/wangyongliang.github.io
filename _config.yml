@@ -5,6 +5,7 @@ email: wangyongliang.wyl@gmail.com
 location: Beijing, China
 timezone: +0000
 skin: daylight
+avatar: /avatar.jpg
 plugins:
   - jekyll-remote-theme
 
